@@ -1,0 +1,26 @@
+{
+  "1240B": [
+    {
+      "Unit No.": "1240B",
+      "Floor Plan Code": "A2",
+      "Net sf": 886,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 889,
+      "Lease Start Date": "2018-07-21",
+      "Lease Expiration": "2019-08-20",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 879
+    },
+    {
+      "Unit No.": "1240B",
+      "Floor Plan Code": "A2",
+      "Net sf": 886,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 889,
+      "Lease Start Date": "2019-07-31",
+      "Lease Expiration": "2019-08-20",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 909
+    }
+  ]
+}

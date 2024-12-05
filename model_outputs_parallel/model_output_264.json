@@ -1,0 +1,26 @@
+{
+  "3575C": [
+    {
+      "Unit No.": "3575C",
+      "Floor Plan Code": "A1CF",
+      "Net sf": 706,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 979,
+      "Lease Start Date": "2018-08-26",
+      "Lease Expiration": "2019-10-25",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 859
+    },
+    {
+      "Unit No.": "3575C",
+      "Floor Plan Code": "A1CF",
+      "Net sf": 706,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 979,
+      "Lease Start Date": "2019-10-26",
+      "Lease Expiration": "2020-08-25",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 902
+    }
+  ]
+}

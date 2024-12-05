@@ -1,0 +1,19 @@
+{
+  "3243": [
+    {
+      "Unit No.": "3243",
+      "Floor Plan Code": "A2",
+      "Net sf": 647,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "",
+      "Market Rent": 660,
+      "Lease Start Date": "2019-05-01",
+      "Lease Expiration": "2020-04-30",
+      "Pest Fee": 7,
+      "Trash": 10,
+      "Pet Rent": 15,
+      "Insurance Fee": 12,
+      "Lease Rent": 660
+    }
+  ]
+}

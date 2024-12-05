@@ -1,0 +1,15 @@
+{
+  "1224": [
+    {
+      "Unit No.": "1224",
+      "Floor Plan Code": "A2",
+      "Net sf": 864,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1189,
+      "Lease Start Date": "2023-08-31",
+      "Lease Expiration": "2024-09-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1189
+    }
+  ]
+}

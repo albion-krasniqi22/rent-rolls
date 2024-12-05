@@ -1,0 +1,36 @@
+{
+  "3560A": [
+    {
+      "Unit No.": "3560A",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 919,
+      "Lease Start Date": "2018-11-01",
+      "Lease Expiration": "2019-10-31",
+      "Enter \"F\" for Future Lease": "F",
+      "Lease Rent": 880,
+      "Pest Fee": 0,
+      "Trash": 0,
+      "Pet Rent": 0,
+      "Insurance Fee": 0
+    },
+    {
+      "Unit No.": "3560A",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 919,
+      "Lease Start Date": "2019-10-31",
+      "Lease Expiration": "2020-10-31",
+      "Enter \"F\" for Future Lease": "F",
+      "Lease Rent": 942,
+      "Pest Fee": 0,
+      "Trash": 0,
+      "Pet Rent": 0,
+      "Insurance Fee": 0
+    }
+  ]
+}

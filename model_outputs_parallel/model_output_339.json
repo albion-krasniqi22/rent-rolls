@@ -1,0 +1,30 @@
+{
+  "3582F": [
+    {
+      "Unit No.": "3582F",
+      "Floor Plan Code": "B2A",
+      "Net sf": 1042,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1099,
+      "Lease Start Date": "2011-07-29",
+      "Lease Expiration": "2019-11-28",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 872,
+      "Pest Fee": 0,
+      "Trash": 0
+    },
+    {
+      "Unit No.": "3582F",
+      "Floor Plan Code": "B2A",
+      "Net sf": 1042,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1099,
+      "Lease Start Date": "2019-11-29",
+      "Lease Expiration": "2020-11-28",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 916,
+      "Pest Fee": 7,
+      "Trash": 0
+    }
+  ]
+}

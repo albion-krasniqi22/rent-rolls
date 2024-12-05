@@ -1,0 +1,21 @@
+{
+  "3579F": [
+    {
+      "Unit No.": "3579F",
+      "Floor Plan Code": "A1BF",
+      "Net sf": 643,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 999,
+      "Lease Start Date": "2017-11-14",
+      "Lease Expiration": "2020-02-13",
+      "Pest Fee": 0,
+      "Trash": 0,
+      "Pet Rent": 0,
+      "Insurance Fee": 0,
+      "Month To Month": 0,
+      "Other Income": 0,
+      "Lease Rent": 855
+    }
+  ]
+}

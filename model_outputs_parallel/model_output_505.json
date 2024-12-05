@@ -1,0 +1,19 @@
+{
+  "12208": [
+    {
+      "Unit No.": "12208",
+      "Floor Plan Code": "A2",
+      "Net sf": 647,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 960,
+      "Lease Start Date": "2018-08-30",
+      "Lease Expiration": "2019-09-29",
+      "Pest Fee": 2,
+      "Trash": 15,
+      "Pet Rent": 30,
+      "Insurance Fee": 8,
+      "Lease Rent": 970
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "3630A": [
+    {
+      "Unit No.": "3630A",
+      "Floor Plan Code": "C2A",
+      "Net sf": 1543,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1659,
+      "Lease Start Date": "2019-09-01",
+      "Lease Expiration": "2020-08-31",
+      "Pest Fee": 0,
+      "Trash": 0,
+      "Pet Rent": 0,
+      "Insurance Fee": 0,
+      "Lease Rent": 1246
+    }
+  ]
+}

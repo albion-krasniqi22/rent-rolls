@@ -1,0 +1,15 @@
+{
+  "336B": [
+    {
+      "Unit No.": "336B",
+      "Floor Plan Code": "A2",
+      "Net sf": 867,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1190,
+      "Lease Start Date": "2018-08-09",
+      "Lease Expiration": "2019-10-08",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1200
+    }
+  ]
+}

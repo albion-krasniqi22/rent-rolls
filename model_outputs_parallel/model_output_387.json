@@ -1,0 +1,16 @@
+{
+  "122A": [
+    {
+      "Unit No.": "122A",
+      "Floor Plan Code": "A2",
+      "Net sf": 867,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1190,
+      "Lease Start Date": "2021-09-07",
+      "Lease Expiration": "2022-09-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1210,
+      "CARPORT": 35
+    }
+  ]
+}

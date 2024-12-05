@@ -1,0 +1,15 @@
+{
+  "119": [
+    {
+      "Unit No.": "119",
+      "Floor Plan Code": "A1",
+      "Net sf": 736,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 900,
+      "Lease Start Date": "2019-06-05",
+      "Lease Expiration": "2020-06-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 819
+    }
+  ]
+}

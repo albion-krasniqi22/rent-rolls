@@ -1,0 +1,25 @@
+{
+  "14382": [
+    {
+      "Unit No.": "14382",
+      "Floor Plan Code": "C2",
+      "Net sf": 1256,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1540,
+      "Lease Start Date": "2017-09-01",
+      "Lease Expiration": "2018-11-30",
+      "Occupancy Status": NaN
+    },
+    {
+      "Unit No.": "14382",
+      "Floor Plan Code": "C2",
+      "Net sf": 1256,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1540,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    }
+  ]
+}

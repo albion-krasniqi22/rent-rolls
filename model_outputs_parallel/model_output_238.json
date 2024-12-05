@@ -1,0 +1,22 @@
+{
+  "11430A": [
+    {
+      "Unit No.": "11430A",
+      "Floor Plan Code": "A2",
+      "Net sf": 867,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1180,
+      "Lease Start Date": "2019-01-18",
+      "Lease Expiration": "2020-03-17",
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1180,
+      "Lease Start Date": "2019-01-18",
+      "Lease Expiration": "2020-03-17",
+      "Balance": 0,
+      "Rent": 1180,
+      "Pet Rent": 10
+    }
+  ]
+}

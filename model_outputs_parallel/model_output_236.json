@@ -1,0 +1,28 @@
+{
+  "3568I": [
+    {
+      "Unit No.": "3568I",
+      "Floor Plan Code": "A1AP",
+      "Net sf": 561,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1094,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    },
+    {
+      "Unit No.": "3568I",
+      "Floor Plan Code": "A1AP",
+      "Net sf": 561,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1094,
+      "Lease Start Date": "2019-10-28",
+      "Lease Expiration": "2020-10-24",
+      "Enter "F" for Future Lease": "F",
+      "Pet Rent": 10,
+      "Rent": 1094,
+      "Pest Fee": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "3624B": [
+    {
+      "Unit No.": "3624B",
+      "Floor Plan Code": "A2AP",
+      "Net sf": 847,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1029,
+      "Lease Start Date": "2019-05-29",
+      "Lease Expiration": "2020-02-28",
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1029,
+      "Lease Start Date": "2019-05-29",
+      "Lease Expiration": "2020-02-28",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 824
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "3568A": [
+    {
+      "Unit No.": "3568A",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 919,
+      "Lease Start Date": "2018-11-01",
+      "Lease Expiration": "2019-10-31",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 854
+    },
+    {
+      "Unit No.": "3568A",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 919,
+      "Lease Start Date": "2019-10-31",
+      "Lease Expiration": "2020-10-31",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 914
+    }
+  ]
+}

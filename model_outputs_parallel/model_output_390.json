@@ -1,0 +1,16 @@
+{
+  "3290A": [
+    {
+      "Unit No.": "3290A",
+      "Floor Plan Code": "B1",
+      "Net sf": 1436,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1515,
+      "Lease Start Date": "2018-06-15",
+      "Lease Expiration": "2019-07-14",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1500,
+      "GARAGE": 125
+    }
+  ]
+}

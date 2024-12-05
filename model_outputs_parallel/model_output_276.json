@@ -1,0 +1,25 @@
+{
+  "3576G": [
+    {
+      "Unit No.": "3576G",
+      "Floor Plan Code": "A1BF",
+      "Net sf": 643,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 999,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    },
+    {
+      "Unit No.": "3576G",
+      "Floor Plan Code": "A1BF",
+      "Net sf": 643,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 999,
+      "Lease Start Date": "2019-10-28",
+      "Lease Expiration": "2020-10-26",
+      "Enter Other Lease Charge Codes Here": 999
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "12102": [
+    {
+      "Unit No.": "12102",
+      "Floor Plan Code": "A2",
+      "Net sf": 867,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1210,
+      "Lease Start Date": "2022-10-09",
+      "Lease Expiration": "2023-10-31",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1210,
+      "Lease Start Date": "2023-10-31",
+      "Lease Expiration": "2024-10-31",
+      "Occupied": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1210,
+      "Lease Start Date": "2023-10-31",
+      "Lease Expiration": "2024-10-31",
+      "Occupied": "Occupied"
+    }
+  ]
+}

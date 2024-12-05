@@ -1,0 +1,22 @@
+{
+  "12480I": [
+    {
+      "Unit No.": "12480I",
+      "Floor Plan Code": "A1",
+      "Net sf": 736,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1103,
+      "Lease Start Date": "2019-07-10",
+      "Lease Expiration": "2020-08-09",
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1103,
+      "Lease Start Date": "2019-07-10",
+      "Lease Expiration": "2020-08-09",
+      "Pet Rent": 15,
+      "Insurance Fee": 15,
+      "Rent": 1093
+    }
+  ]
+}

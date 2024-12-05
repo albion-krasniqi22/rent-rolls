@@ -1,0 +1,24 @@
+{
+  "3619J": [
+    {
+      "Unit No.": "3619J",
+      "Floor Plan Code": "A2A",
+      "Net sf": 847,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 969,
+      "Lease Start Date": "2019-04-01",
+      "Lease Expiration": "2019-11-30",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 969,
+      "Lease Start Date": "2019-04-01",
+      "Lease Expiration": "2019-11-30",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 969,
+      "Lease Start Date": "2020-12-01",
+      "Lease Expiration": "2020-11-30",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 969
+    }
+  ]
+}

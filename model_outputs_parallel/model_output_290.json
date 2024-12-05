@@ -1,0 +1,28 @@
+{
+  "3577K": [
+    {
+      "Unit No.": "3577K",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 919,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    },
+    {
+      "Unit No.": "3577K",
+      "Floor Plan Code": "A1AF",
+      "Net sf": 561,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 919,
+      "Lease Start Date": "2019-10-29",
+      "Lease Expiration": "2020-10-29",
+      "Pet Rent": 10,
+      "Rent": 919,
+      "Pest Fee": 7,
+      "Insurance Fee": 0
+    }
+  ]
+}

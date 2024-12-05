@@ -1,0 +1,19 @@
+{
+  "3615E": [
+    {
+      "Unit No.": "3615E",
+      "Floor Plan Code": "A1AP",
+      "Net sf": 561,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 789,
+      "Lease Start Date": "2019-10-19",
+      "Lease Expiration": "2020-08-20",
+      "Pest Fee": 0,
+      "Trash": 0,
+      "Pet Rent": 0,
+      "Insurance Fee": 0,
+      "Lease Rent": 789
+    }
+  ]
+}

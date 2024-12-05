@@ -1,0 +1,17 @@
+{
+  "12110B": [
+    {
+      "Unit No.": "12110B",
+      "Floor Plan Code": "A2",
+      "Net sf": 867,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1155,
+      "Lease Start Date": "2018-09-28",
+      "Lease Expiration": "2019-10-27",
+      "Pet Rent": 10,
+      "Rent": 1175,
+      "Insurance Fee": 15
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "2354E": [
+    {
+      "Unit No.": "2354E",
+      "Floor Plan Code": "A1",
+      "Net sf": 736,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1093,
+      "Lease Start Date": "2019-07-05",
+      "Lease Expiration": "2020-07-31",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 0,
+      "PETFEE": 15
+    },
+    {
+      "Unit No.": "2354E",
+      "Floor Plan Code": "A1",
+      "Net sf": 736,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1093,
+      "Lease Start Date": "2021-07-31",
+      "Lease Expiration": NaN
+    }
+  ]
+}

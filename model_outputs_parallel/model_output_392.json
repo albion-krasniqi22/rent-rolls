@@ -1,0 +1,19 @@
+{
+  "3390A": [
+    {
+      "Unit No.": "3390A",
+      "Floor Plan Code": "B1",
+      "Net sf": 1176,
+      "Occupancy Status": "Occupied",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1450,
+      "Lease Start Date": "2019-05-10",
+      "Lease Expiration": "2020-06-09",
+      "Pest Fee": 5,
+      "Trash": 25,
+      "Pet Rent": 20,
+      "Insurance Fee": 15,
+      "Lease Rent": 1386
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "3614I": [
+    {
+      "Unit No.": "3614I",
+      "Floor Plan Code": "A2AF",
+      "Net sf": 847,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1099.00,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    },
+    {
+      "Unit No.": "3614I",
+      "Floor Plan Code": "A2AF",
+      "Net sf": 847,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1099.00,
+      "Lease Start Date": "2019-10-28",
+      "Lease Expiration": "2020-10-23",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1099.00,
+      "Lease Start Date": "2019-10-28",
+      "Lease Expiration": "2020-10-23",
+      "Rent": 1099.00,
+      "Pest Fee": 7.00,
+      "Trash": 10.00
+    }
+  ]
+}

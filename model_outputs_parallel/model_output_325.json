@@ -1,0 +1,29 @@
+{
+  "3580H": [
+    {
+      "Unit No.": "3580H",
+      "Floor Plan Code": "B2AF",
+      "Net sf": 1042,
+      "Occupancy Status": "Vacant-Leased",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1299,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
+    },
+    {
+      "Unit No.": "3580H",
+      "Floor Plan Code": "B2AF",
+      "Net sf": 1042,
+      "Occupancy Status": "Pending resident",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1299,
+      "Lease Start Date": "2019-10-29",
+      "Lease Expiration": "2020-10-17",
+      "Pet Rent": 10,
+      "Rent": 1299,
+      "Pest Fee": 7,
+      "Trash": 0,
+      "Insurance Fee": 0
+    }
+  ]
+}
