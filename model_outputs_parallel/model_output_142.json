@@ -1,15 +1,19 @@
 {
-  "123": [
+  "HH103": [
     {
-      "Unit No.": "123",
-      "Floor Plan Code": "60212c1",
-      "Net sf": 1015,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "HH103",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 980,
-      "Lease Start Date": "2019-06-21",
-      "Lease Expiration": "2020-06-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 880
+      "Market Rent": 1607,
+      "Lease Start Date": "2019-01-25",
+      "Lease Expiration": "2020-01-24",
+      "Occupant Name": "Mary Marshall",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1607,
+      "Rent": 1607,
+      "Other Charges": 40
     }
   ]
 }

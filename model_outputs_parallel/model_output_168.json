@@ -1,40 +1,16 @@
 {
-  "3554C": [
+  "JJ201": [
     {
-      "Unit No.": "3554C",
-      "Floor Plan Code": "A1CF",
-      "Net sf": 706,
-      "Occupancy Status": "Occupied-NTVL",
-      "Enter \"F\" for Future Lease": "N",
-      "Market Rent": 979,
-      "Lease Start Date": "2018-09-04",
-      "Lease Expiration": "2019-11-03",
-      "Pest Fee": 0,
-      "Trash": 0,
-      "Pet Rent": 0,
-      "Insurance Fee": 0,
-      "Lease Rent": 882,
-      "Balance": -15.6,
-      "Required Deposit": 882,
-      "Dep On Hand": 882
-    },
-    {
-      "Unit No.": "3554C",
-      "Floor Plan Code": "A1CF",
-      "Net sf": 706,
-      "Occupancy Status": "Occupied-NTVL",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 979,
-      "Lease Start Date": "2019-12-05",
-      "Lease Expiration": "2020-12-04",
-      "Pest Fee": 0,
-      "Trash": 0,
-      "Pet Rent": 0,
-      "Insurance Fee": 0,
-      "Lease Rent": 979,
-      "Balance": 99,
-      "Required Deposit": 0,
-      "Dep On Hand": 0
+      "Unit No.": "JJ201",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1672,
+      "Lease Start Date": "2019-08-08",
+      "Lease Expiration": "2020-08-07",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1672,
+      "CONC/SPECL": 40
     }
   ]
 }

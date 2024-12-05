@@ -1,16 +1,16 @@
 {
-  "1205": [
+  "HH101": [
     {
-      "Unit No.": "1205",
-      "Floor Plan Code": "60212",
-      "Net sf": 1304,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "HH101",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1155,
-      "Lease Start Date": "2018-06-09",
-      "Lease Expiration": "2019-07-08",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 140,
-      "CONC/SPECL": -167
+      "Market Rent": 1662,
+      "Lease Start Date": "2019-05-31",
+      "Lease Expiration": "2020-05-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1662,
+      "CONC/SUB": 140
     }
   ]
 }

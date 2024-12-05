@@ -1,16 +1,14 @@
 {
-  "710": [
+  "EE108": [
     {
-      "Unit No.": "710",
-      "Floor Plan Code": "60212b1",
-      "Net sf": 1002,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "EE108",
+      "Floor Plan Code": "151322A",
+      "Net sf": 1005,
+      "Occupancy Status": "VACANT",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 990,
-      "Lease Start Date": "2019-04-17",
-      "Lease Expiration": "2020-04-30",
-      "Move-Out Date": NaN,
-      "Balance": 890
+      "Market Rent": 1859,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
     }
   ]
 }

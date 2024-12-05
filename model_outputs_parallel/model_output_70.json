@@ -1,17 +1,14 @@
 {
-  "701": [
+  "DD307": [
     {
-      "Unit No.": "701",
-      "Floor Plan Code": "60212b2",
-      "Net sf": 1081,
-      "Occupancy Status": "OCCUPIED",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 1175,
-      "Lease Start Date": "2019-06-02",
-      "Lease Expiration": "2020-07-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1375,
-      "PETFEE": 15,
-      "CONC/SPECL": -145.6
+      "Unit No.": "DD307",
+      "Floor Plan Code": "151322E",
+      "Net sf": 1176,
+      "Occupancy Status": "VACANT",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1990,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
     }
   ]
 }

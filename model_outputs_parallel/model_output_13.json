@@ -1,16 +1,17 @@
 {
-  "134": [
+  "AB1002": [
     {
-      "Unit No.": "134",
-      "Floor Plan Code": "60212c1",
-      "Net sf": 1156,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "AB1002",
+      "Floor Plan Code": "151311A",
+      "Net sf": 754,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1190,
-      "Lease Start Date": "2018-12-12",
-      "Lease Expiration": "2020-02-29",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1190,
-      "MTOM": 100
+      "Market Rent": 1121,
+      "Lease Start Date": "2019-04-05",
+      "Lease Expiration": "2020-04-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1106,
+      "CONC/SPECL": -150,
+      "PETFEE": 20
     }
   ]
 }

@@ -1,15 +1,16 @@
 {
-  "604": [
+  "DD302": [
     {
-      "Unit No.": "604",
-      "Floor Plan Code": "60212c3",
-      "Net sf": 1153,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "DD302",
+      "Floor Plan Code": "151332B",
+      "Net sf": 1370,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1150,
-      "Lease Start Date": "2019-06-01",
-      "Lease Expiration": "2020-06-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1150
+      "Market Rent": 2149,
+      "Lease Start Date": "2019-09-20",
+      "Lease Expiration": "2020-09-19",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 2149,
+      "CONC/SPECL": 60
     }
   ]
 }

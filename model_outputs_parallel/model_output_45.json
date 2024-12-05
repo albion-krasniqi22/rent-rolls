@@ -1,16 +1,17 @@
 {
-  "406": [
+  "CC302": [
     {
-      "Unit No.": "406",
-      "Floor Plan Code": "60212b1",
-      "Net sf": 1002,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "CC302",
+      "Floor Plan Code": "151332B",
+      "Net sf": 1370,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 990,
-      "Lease Start Date": "2019-06-08",
-      "Lease Expiration": "2020-06-30",
-      "Enter other rental charges here": NaN,
-      "Enter other credit amounts here": NaN
+      "Market Rent": 2149,
+      "Lease Start Date": "2019-08-02",
+      "Lease Expiration": "2020-08-01",
+      "Rent": 2149,
+      "Other Charges": 160,
+      "Credits": 0
     }
   ]
 }

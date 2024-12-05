@@ -1,15 +1,15 @@
 {
-  "515": [
+  "DD205": [
     {
-      "Unit No.": "515",
-      "Floor Plan Code": "60212c4",
-      "Net sf": 1304,
-      "Occupancy Status": "Occupied",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 1305,
-      "Lease Start Date": "2019-05-01",
-      "Lease Expiration": "2023-04-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1287
+      "Unit No.": "DD205",
+      "Floor Plan Code": "151311BG",
+      "Net sf": 769,
+      "Occupancy Status": "C",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1671,
+      "Lease Start Date": "2019-09-20",
+      "Lease Expiration": "2020-09-19",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1671
     }
   ]
 }

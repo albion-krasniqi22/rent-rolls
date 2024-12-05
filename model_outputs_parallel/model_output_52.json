@@ -1,15 +1,16 @@
 {
-  "509": [
+  "CC200": [
     {
-      "Unit No.": "509",
-      "Floor Plan Code": "40212b3",
-      "Net sf": 1456,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "CC200",
+      "Floor Plan Code": "A137",
+      "Net sf": 1370,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1456,
-      "Lease Start Date": "2018-10-13",
-      "Lease Expiration": "2019-11-12",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1456
+      "Market Rent": 1980,
+      "Lease Start Date": "2019-06-08",
+      "Lease Expiration": "2020-07-07",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1980,
+      "CONC/SPECL": 200
     }
   ]
 }

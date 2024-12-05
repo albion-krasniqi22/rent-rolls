@@ -1,16 +1,17 @@
 {
-  "401": [
+  "CC205": [
     {
-      "Unit No.": "401",
-      "Floor Plan Code": "60212b1",
-      "Net sf": 969,
-      "Occupancy Status": "Occupied",
-      "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1185,
-      "Lease Start Date": "2018-10-30",
-      "Lease Expiration": "2019-12-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1185,
-      "CONC/SPECL": -100
+      "Unit No.": "CC205",
+      "Floor Plan Code": "151311BG",
+      "Net sf": 769,
+      "Occupancy Status": "Noah Boyd",
+      "Enter \"F\" for Future Lease": "C",
+      "Market Rent": 1671,
+      "Lease Start Date": "2019-08-24",
+      "Lease Expiration": "2020-08-23",
+      "Move-Out Date": null,
+      "Deposits": 1671,
+      "Other Charges": 0
     }
   ]
 }

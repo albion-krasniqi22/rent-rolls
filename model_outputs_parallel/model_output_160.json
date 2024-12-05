@@ -1,15 +1,16 @@
 {
-  "3216": [
+  "HH305": [
     {
-      "Unit No.": "3216",
-      "Floor Plan Code": "A2",
-      "Net sf": 867,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "HH305",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1200,
-      "Lease Start Date": "2019-06-21",
-      "Lease Expiration": "2020-06-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1210
+      "Market Rent": 1627,
+      "Lease Start Date": "2019-07-20",
+      "Lease Expiration": "2020-07-19",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1627,
+      "OTHER CHARGES": 170
     }
   ]
 }

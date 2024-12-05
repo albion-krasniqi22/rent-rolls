@@ -1,16 +1,14 @@
 {
-  "820": [
+  "EE202": [
     {
-      "Unit No.": "820",
-      "Floor Plan Code": "60212c",
-      "Net sf": 1153,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "EE202",
+      "Floor Plan Code": "151322A",
+      "Net sf": 1005,
+      "Occupancy Status": "VACANT",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1260,
-      "Lease Start Date": "2019-03-01",
-      "Lease Expiration": "2020-02-29",
-      "Occupancy Influences": "I",
-      "Enter \"F\" for Future Lease.1": "T"
+      "Market Rent": 1869,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
     }
   ]
 }

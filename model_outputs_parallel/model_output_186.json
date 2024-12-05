@@ -1,36 +1,15 @@
 {
-  "3560A": [
+  "KK203": [
     {
-      "Unit No.": "3560A",
-      "Floor Plan Code": "A1AF",
-      "Net sf": 561,
-      "Occupancy Status": "Occupied",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 919,
-      "Lease Start Date": "2018-11-01",
-      "Lease Expiration": "2019-10-31",
-      "Enter \"F\" for Future Lease": "F",
-      "Lease Rent": 880,
-      "Pest Fee": 0,
-      "Trash": 0,
-      "Pet Rent": 0,
-      "Insurance Fee": 0
-    },
-    {
-      "Unit No.": "3560A",
-      "Floor Plan Code": "A1AF",
-      "Net sf": 561,
-      "Occupancy Status": "Occupied",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 919,
-      "Lease Start Date": "2019-10-31",
-      "Lease Expiration": "2020-10-31",
-      "Enter \"F\" for Future Lease": "F",
-      "Lease Rent": 942,
-      "Pest Fee": 0,
-      "Trash": 0,
-      "Pet Rent": 0,
-      "Insurance Fee": 0
+      "Unit No.": "KK203",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1617,
+      "Lease Start Date": "2019-06-01",
+      "Lease Expiration": "2020-05-31",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1617
     }
   ]
 }

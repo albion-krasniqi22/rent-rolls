@@ -1,15 +1,22 @@
 {
-  "1215": [
+  "BB223": [
     {
-      "Unit No.": "1215",
+      "Unit No.": "BB223",
       "Floor Plan Code": "A2",
-      "Net sf": 867,
-      "Occupancy Status": "Occupied",
+      "Net sf": 647,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1190,
-      "Lease Start Date": "2018-12-01",
-      "Lease Expiration": "2019-12-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1190
+      "Market Rent": 970,
+      "Lease Start Date": "2018-07-06",
+      "Lease Expiration": "2019-08-31",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1390,
+      "Lease Start Date": "2019-08-16",
+      "Lease Expiration": "2020-08-31",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1390,
+      "Lease Start Date": "2021-08-31",
+      "Lease Expiration": NaN
     }
   ]
 }

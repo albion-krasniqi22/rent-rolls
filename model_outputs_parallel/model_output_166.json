@@ -1,15 +1,16 @@
 {
-  "12206": [
+  "JJ103": [
     {
-      "Unit No.": "12206",
-      "Floor Plan Code": "A1",
-      "Net sf": 735,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "JJ103",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1095,
-      "Lease Start Date": "2019-01-25",
-      "Lease Expiration": "2020-02-24",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1085
+      "Market Rent": 1662,
+      "Lease Start Date": "2018-12-01",
+      "Lease Expiration": "2019-11-30",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1662,
+      "CONC/SPECL": 210
     }
   ]
 }

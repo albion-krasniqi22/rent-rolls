@@ -1,15 +1,16 @@
 {
-  "13860": [
+  "KK301": [
     {
-      "Unit No.": "13860",
-      "Floor Plan Code": "A2",
-      "Net sf": 736,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "KK301",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1078,
-      "Lease Start Date": "2019-05-01",
-      "Lease Expiration": "2020-04-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1028
+      "Market Rent": 1682,
+      "Lease Start Date": "2019-08-09",
+      "Lease Expiration": "2020-08-08",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1682,
+      "CONC/SPECL": 140
     }
   ]
 }

@@ -1,14 +1,27 @@
 {
-  "229": [
+  "AB219": [
     {
-      "Unit No.": "229",
-      "Floor Plan Code": "60212c1",
-      "Net sf": 1227,
-      "Occupancy Status": "Vacant",
+      "Unit No.": "AB219",
+      "Floor Plan Code": "151311",
+      "Net sf": 754,
+      "Occupancy Status": "N",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1280,
+      "Market Rent": 1136,
+      "Lease Start Date": "2019-06-21",
+      "Lease Expiration": "2020-07-31",
+      "Occupancy Status": "N",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1136,
+      "Lease Start Date": "2019-06-21",
+      "Lease Expiration": "2020-07-31",
+      "Occupancy Status": "N",
+      "Enter \"F\" for Future Lease": "F",
+      "Market Rent": 1136,
       "Lease Start Date": NaN,
-      "Lease Expiration": NaN
+      "Lease Expiration": NaN,
+      "Occupied": NaN,
+      "Occupied-1": NaN,
+      "Occupied-2": NaN
     }
   ]
 }

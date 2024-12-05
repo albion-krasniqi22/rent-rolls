@@ -1,16 +1,15 @@
 {
-  "139": [
+  "AB101": [
     {
-      "Unit No.": "139",
-      "Floor Plan Code": "60212c1",
-      "Net sf": 1076,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "AB101",
+      "Floor Plan Code": "151311A",
+      "Net sf": 1171,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1200,
-      "Lease Start Date": "2018-12-28",
-      "Lease Expiration": "2021-01-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1210,
-      "REFERRAL": -200
+      "Market Rent": 1475,
+      "Lease Start Date": "2018-09-08",
+      "Lease Expiration": "2019-10-07",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1371
     }
   ]
 }

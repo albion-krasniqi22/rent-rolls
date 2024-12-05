@@ -1,17 +1,17 @@
 {
-  "10102": [
+  "FF202": [
     {
-      "Unit No.": "10102",
-      "Floor Plan Code": "60212c4",
-      "Net sf": 1304,
-      "Occupancy Status": "Occupied",
+      "Unit No.": "FF202",
+      "Floor Plan Code": "151332B",
+      "Net sf": 1370,
+      "Occupancy Status": "C",
       "Enter \"F\" for Future Lease": NaN,
-      "Market Rent": 1155,
-      "Lease Start Date": "2018-06-01",
-      "Lease Expiration": "2019-06-30",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1171,
-      "PETFEE": 30,
-      "CONC/SPECL": -500
+      "Market Rent": 2139,
+      "Lease Start Date": "2019-03-15",
+      "Lease Expiration": "2020-03-14",
+      "Rent": 2094,
+      "Other Charges": 0,
+      "Credits": 0
     }
   ]
 }

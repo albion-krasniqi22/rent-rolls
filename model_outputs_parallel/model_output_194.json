@@ -1,15 +1,16 @@
 {
-  "1428": [
+  "KK303": [
     {
-      "Unit No.": "1428",
-      "Floor Plan Code": "A2",
-      "Net sf": 647,
-      "Occupancy Status": "Occupied",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 1076,
-      "Lease Start Date": "2023-10-10",
-      "Lease Expiration": "2024-10-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1076
+      "Unit No.": "KK303",
+      "Floor Plan Code": "151321B",
+      "Net sf": 918,
+      "Occupancy Status": "C",
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1627,
+      "Lease Start Date": "2019-08-13",
+      "Lease Expiration": "2020-08-12",
+      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1627,
+      "CONC/SPECL": 30
     }
   ]
 }

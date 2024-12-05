@@ -1,15 +1,14 @@
 {
-  "322": [
+  "CC102": [
     {
-      "Unit No.": "322",
-      "Floor Plan Code": "60212",
-      "Net sf": 1304,
+      "Unit No.": "CC102",
+      "Floor Plan Code": "151311B",
+      "Net sf": 769,
       "Occupancy Status": "VACANT",
-      "Enter \"F\" for Future Lease": "F",
-      "Market Rent": 1305,
-      "Lease Start Date": "2023-06-01",
-      "Lease Expiration": "2024-05-31",
-      "Enter individual charge codes into the blue cells below (ex. rent, conc, petf, etc). For each unit, enter charge amounts in the corresponding columns. RENT": 1237
+      "Enter \"F\" for Future Lease": NaN,
+      "Market Rent": 1550,
+      "Lease Start Date": NaN,
+      "Lease Expiration": NaN
     }
   ]
 }
